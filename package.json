@@ -1,0 +1,22 @@
+{
+    "name": "glsl-snippets",
+    "displayName": "glsl-snippets",
+    "description": "Snippets for GLSL",
+    "version": "0.0.1",
+    "publisher": "j0hnm4r5",
+    "repository": "github:j0hnm4r5/glsl-snippets",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "glsl",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
